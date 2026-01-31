@@ -5,9 +5,7 @@
 
 ## 👋 About Me
 
-I’m a data analyst who combines **strong analytical rigor with business intuition**.  
-What sets me apart is my ability to **connect data to real decisions** — not just build dashboards, but explain *why trends are happening and what actions they enable*.
-
+I’m a data analyst who combines **strong analytical rigor with business intuition**. What sets me apart is my ability to **connect data to real decisions** — not just build dashboards, but explain *why trends are happening and what actions they enable*.
 I’ve worked across **non-profit, operational, and product-style analytics**, partnering with stakeholders to define the right metrics, validate assumptions, and turn complex datasets into insights that are easy to act on. I care deeply about **data quality, clarity, and storytelling**, and I approach every analysis with the mindset of the decision-maker on the other side.
 
 ---
