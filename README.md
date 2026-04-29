@@ -44,7 +44,7 @@ I fix that at the source: enforcing KPI logic in SQL, tracing lineage from filte
 | Project | Stack | Key outcome |
 |---|---|---|
 | [Sales Data Warehouse & BI](https://github.com/kevinpandya814/data-warehousing-sales) | T-SQL, Medallion Architecture, Power BI | Surfaced that 1 product drove 94% of $29M revenue |
-| [Customer Churn Prediction Pipeline](https://github.com/kevinpandya814/customer-churn-prediction) | Python, Random Forest, Tableau | 86% accuracy on 10K+ credit records, 4 risk tiers |
+| [Customer Churn Prediction](https://github.com/kevinpandya814/retail-churn-segmentation) | Python, Random Forest, Tableau | 86% accuracy on 10K+ credit records, 4 risk tiers |
 | [AdventureWorks Executive Dashboard](https://github.com/kevinpandya814/AdventureWorks-Sales-Performance-Dashboard) | Power BI, DAX | One-page executive sales dashboard, revenue & profit KPIs |
  
 ---
