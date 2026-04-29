@@ -1,58 +1,66 @@
-# Hi, I’m Kevin 👋  
-
-📊 **Data Analyst | Business Analytics | Product & Insights**  
-📍 Toronto, Canada  
-
-## 👋 About Me
-
-I’m a data analyst who combines **strong analytical rigor with business intuition**. What sets me apart is my ability to **connect data to real decisions** — not just build dashboards, but explain *why trends are happening and what actions they enable*.
-I’ve worked across **non-profit, operational, and product-style analytics**, partnering with stakeholders to define the right metrics, validate assumptions, and turn complex datasets into insights that are easy to act on. I care deeply about **data quality, clarity, and storytelling**, and I approach every analysis with the mindset of the decision-maker on the other side.
-
+# Kevin Pandya — Analytics & Reporting Analyst
+ 
+**SQL · Power BI · Python · Azure · Tableau · Excel**
+📍 Toronto, ON · [LinkedIn](https://linkedin.com/in/kevinpandya814) · [Email](mailto:pandyakth@gmail.com)
+ 
 ---
-
-## 🔍 What I Do
-- Translate business questions into **clear analytical frameworks**
-- Build **clean, reliable datasets** for reporting and analysis
-- Design **KPI dashboards** that executives and operators actually use
-- Apply **exploratory analysis & segmentation** to uncover hidden patterns
-- Communicate insights through **clear narratives, not just charts**
-
+ 
+Most reporting problems aren't tool problems. They're **definition problems** — the same metric means different things across report pages, the same data produces different numbers depending on who pulls it, and no one can explain why.
+ 
+I fix that at the source: enforcing KPI logic in SQL, tracing lineage from filter to base table, building the documentation layer that makes outputs reproducible under scrutiny.
+ 
 ---
-
-# 💻 Tech Stack:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+ 
+## What I build
+ 
+**Reporting & BI**
+- T-SQL audit modules, stored procedures, and standardized reporting views
+- Power BI dashboards with underlying star-schema data models and DAX measures
+- KPI governance frameworks, data dictionaries, and metric alignment documentation
+**Analytics & Modeling**
+- Cohort and segmentation analysis on large-scale participant datasets
+- Churn prediction pipeline: Random Forest, 86% accuracy, 10,000+ credit records
+- Revenue concentration analysis surfacing critical business risks in $29M transactional data
+**Data Engineering**
+- ETL pipelines consolidating 10+ relational sources into audit-ready datasets
+- Medallion architecture (Bronze → Silver → Gold) for scalable data warehousing
+- BigQuery ingestion, data validation, and pipeline reliability workflows
 ---
-**Analytics & BI**
-- SQL (CTEs, joins, window functions)
-- Power BI (DAX, data modeling, executive dashboards)
-- Exploratory Data Analysis (EDA)
-- KPI definition & performance tracking
-
-**Programming & Data**
-- Python (Pandas, NumPy, scikit-learn)
-- Data cleaning, transformation & validation
-- Statistical analysis & clustering (K-Means)
-
-**Data Modeling & Platforms**
-- Star schema & dimensional modeling
-- Medallion architecture (Bronze–Silver–Gold)
-- BigQuery, Microsoft Fabric Lakehouse
-- Multi-source data integration
-
+ 
+## Tech stack
+ 
+| Category | Tools |
+|---|---|
+| Query & modeling | T-SQL, MySQL, BigQuery, Star Schema, CTEs, Window Functions |
+| BI & visualization | Power BI (DAX, Power Query), Tableau, Excel (Solver, Pivot Tables) |
+| Programming | Python (Pandas, NumPy, Scikit-learn), R |
+| Cloud & platforms | Microsoft Azure, Microsoft Fabric Lakehouse |
+| Workflow | Git, Jira, Confluence |
+ 
 ---
-
-## 📊 How I Think About Data
-- **Business first** → analysis starts with the decision, not the dataset  
-- **Clarity over complexity** → simple metrics beat clever ones  
-- **Trust in data** → validation and assumptions matter  
-- **Storytelling** → insights only matter if they’re understood  
-
+ 
+## Featured projects
+ 
+| Project | Stack | Key outcome |
+|---|---|---|
+| [Sales Data Warehouse & BI](https://github.com/kevinpandya814/data-warehousing-sales) | T-SQL, Medallion Architecture, Power BI | Surfaced that 1 product drove 94% of $29M revenue |
+| [Customer Churn Prediction Pipeline](https://github.com/kevinpandya814/customer-churn-prediction) | Python, Random Forest, Tableau | 86% accuracy on 10K+ credit records, 4 risk tiers |
+| [AdventureWorks Executive Dashboard](https://github.com/kevinpandya814/AdventureWorks-Sales-Performance-Dashboard) | Power BI, DAX | One-page executive sales dashboard, revenue & profit KPIs |
+ 
 ---
-
-## 📫 Let’s Connect
-- 💼 LinkedIn: https://linkedin.com/in/kevinpandya814
-- 📁 Portfolio Projects: See pinned repositories below
-- 💬 Always happy to discuss analytics, dashboards, and real-world data problems
-
+ 
+## Education
+ 
+🎓 **Master of Professional Studies in Analytics** — Northeastern University, Toronto (2025)
+🎓 **B.Tech in Computer Engineering** — PP Savani University, India (2022)
+ 
 ---
+ 
+## Certifications
+
+- Azure Data Fundamentals (DP-900)
+- Python for Data Science, AI & Development — IBM
+- Introduction to Data Engineering — IBM
+---
+ 
+*Open to BI Analyst, Reporting Analyst, and Analytics roles in Toronto. Always happy to talk data, dashboards, and real-world reporting problems.*
