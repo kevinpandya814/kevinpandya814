@@ -1,66 +1,93 @@
-# Kevin Pandya — Analytics & Reporting Analyst
- 
-**SQL · Power BI · Python · Azure · Tableau · Excel**
-📍 Toronto, ON · [LinkedIn](https://linkedin.com/in/kevinpandya814) · [Email](mailto:pandyakth@gmail.com)
- 
----
- 
-Most reporting problems aren't tool problems. They're **definition problems** — the same metric means different things across report pages, the same data produces different numbers depending on who pulls it, and no one can explain why.
- 
-I fix that at the source: enforcing KPI logic in SQL, tracing lineage from filter to base table, building the documentation layer that makes outputs reproducible under scrutiny.
- 
----
- 
-## What I build
- 
-**Reporting & BI**
-- T-SQL audit modules, stored procedures, and standardized reporting views
-- Power BI dashboards with underlying star-schema data models and DAX measures
-- KPI governance frameworks, data dictionaries, and metric alignment documentation
-**Analytics & Modeling**
-- Cohort and segmentation analysis on large-scale participant datasets
-- Churn prediction pipeline: Random Forest, 86% accuracy, 10,000+ credit records
-- Revenue concentration analysis surfacing critical business risks in $29M transactional data
-**Data Engineering**
-- ETL pipelines consolidating 10+ relational sources into audit-ready datasets
-- Medallion architecture (Bronze → Silver → Gold) for scalable data warehousing
-- BigQuery ingestion, data validation, and pipeline reliability workflows
----
- 
-## Tech stack
- 
-| Category | Tools |
-|---|---|
-| Query & modeling | T-SQL, MySQL, BigQuery, Star Schema, CTEs, Window Functions |
-| BI & visualization | Power BI (DAX, Power Query), Tableau, Excel (Solver, Pivot Tables) |
-| Programming | Python (Pandas, NumPy, Scikit-learn), R |
-| Cloud & platforms | Microsoft Azure, Microsoft Fabric Lakehouse |
-| Workflow | Git, Jira, Confluence |
- 
----
- 
-## Featured projects
- 
-| Project | Stack | Key outcome |
-|---|---|---|
-| [Sales Data Warehouse & BI](https://github.com/kevinpandya814/data-warehousing-sales) | T-SQL, Medallion Architecture, Power BI | Surfaced that 1 product drove 94% of $29M revenue |
-| [Customer Churn Prediction](https://github.com/kevinpandya814/retail-churn-segmentation) | Python, Random Forest, Tableau | 86% accuracy on 10K+ credit records, 4 risk tiers |
-| [AdventureWorks Executive Dashboard](https://github.com/kevinpandya814/AdventureWorks-Sales-Performance-Dashboard) | Power BI, DAX | One-page executive sales dashboard, revenue & profit KPIs |
- 
----
- 
-## Education
- 
-🎓 **Master of Professional Studies in Analytics** — Northeastern University, Toronto (2025)
-🎓 **B.Tech in Computer Engineering** — PP Savani University, India (2022)
- 
----
- 
-## Certifications
+<div align="center">
 
-- Azure Data Fundamentals (DP-900)
-- Python for Data Science, AI & Development — IBM
-- Introduction to Data Engineering — IBM
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2d7dd2&height=190&section=header&text=Kevin%20Pandya&fontColor=ffffff&fontSize=46&desc=Data%20Analyst%20%E2%80%A2%20Toronto&descSize=20&descAlignY=64)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinpandya814/)
+[![Email](https://img.shields.io/badge/Email-pandyakth@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pandyakth@gmail.com)
+![Location](https://img.shields.io/badge/Toronto,%20ON-Canada-2d7dd2?style=flat-square&logo=googlemaps&logoColor=white)
+![Open to work](https://img.shields.io/badge/Open%20to-BI%20%26%20Analytics%20roles-2ea44f?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=kevinpandya814&style=flat-square&color=2d7dd2)
+
+</div>
+
 ---
- 
-*Open to BI Analyst, Reporting Analyst, and Analytics roles in Toronto. Always happy to talk data, dashboards, and real-world reporting problems.*
+
+### Hi, I'm Kevin 👋
+
+I'm a Toronto-based data analyst with **2+ years** turning messy, inconsistent data into reporting that people can actually trust.
+
+Most reporting problems aren't tool problems — they're **definition problems**. The same metric means different things on different pages, and no one can explain why. I work at the source: getting the KPI logic right in SQL, modelling the data cleanly, and building dashboards that still make sense when someone asks *"where does this number actually come from?"*
+
+- 🎓 Master of Professional Studies in Analytics — Northeastern University, Toronto
+- 🍁 Eligible to work in Canada (PGWP through 2029 — no sponsorship required)
+- 💬 Always up for talking data, dashboards, and real-world reporting problems
+
+---
+
+### 🛠️ What I work with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server%20/%20T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+<br>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel%20(DAX,%20Solver,%20VBA)-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<br>
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 💼 Experience
+
+**Data Analyst — Webosphere Technolabs**  
+- Built loyalty & redemption analytics that surfaced where users dropped off in the redemption funnel; the resulting changes contributed to a **~20% improvement in redemption rate**.
+- Analyzed redemption-funnel drop-off across SQL, Excel, and Power BI, surfacing the friction points behind low conversion, product teams used the findings to revise the points-redemption strategy and lower the threshold, driving a ~20% increase in redemptions.
+
+**Data Analyst (Co-op) — Yonge Street Mission**  ·  Toronto  
+- Worked with real participant program data and built **Power BI dashboards** that program staff used for reporting and tracking.
+- Built Power BI dashboards tracking program participation and participant demographics, giving program staff a single, current view to monitor reach and reporting instead of pulling it together manually.
+
+---
+
+### 🚀 Featured projects
+
+**🏗️ Sales Data Warehouse**  —  `SQL Server` `T-SQL` `Power BI`
+End-to-end warehouse on a **medallion architecture** (Bronze → Silver → Gold): raw CSV ingestion, a cleaned & standardized silver layer, and star-schema gold views feeding a Power BI dashboard. Built on a production-style pattern to practice the full ETL → dimensional model → reporting pipeline.
+*→ I can stand up a reporting layer from raw sources, not just query one that already exists.*
+[**View repo →**](https://github.com/kevinpandya814/data-warehousing-sales)
+
+**📈 Customer Segmentation & Churn Risk**  —  `Python` `scikit-learn` `Tableau`
+RFM feature engineering on **1M+ UK online-retail transactions**, K-Means segmentation into 4 actionable customer groups, plus churn-risk scoring on top.
+*→ I can take raw transactions and turn them into segments and risk signals a growth or CRM team can act on.*
+[**View repo →**](https://github.com/kevinpandya814/retail-churn-segmentation)
+
+**💳 Credit Card Portfolio Risk Monitor**  —  `Excel` `Power Query` `DAX` `Solver` `VBA`
+A from-scratch monitoring tool: Power Query ingestion, a Power Pivot data model, DAX risk measures, linear-programming optimization with Solver, and VBA automation.
+*→ I'm fluent in the Excel/BI stack a lot of finance and ops teams still run on every day.*
+[**View repo →**](https://github.com/kevinpandya814/credit-card-portfolio-monitor)
+
+<sub>More on my [repositories tab](https://github.com/kevinpandya814?tab=repositories) — operations research in Excel/Solver, and statistical analysis in R.</sub>
+
+---
+
+### 🌱 What I'm building now
+
+- Going deeper on **Power BI & Microsoft Fabric** for larger, model-driven reporting
+- Extending my projects with my own **analysis layers, data dictionaries, and documented KPI definitions** so they're reproducible end-to-end
+- Open to **contract or permanent** BI / Reporting / Analytics roles in the Toronto market
+
+---
+
+### 📫 Best way to reach me
+
+The fastest way is **LinkedIn** or **email** — I usually reply same day.
+
+[![LinkedIn](https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinpandya814/)
+[![Email](https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandyakth@gmail.com)
+
+<sub>If you're hiring for a BI, reporting, or analytics role in Toronto — or just want to compare notes on a reporting problem — I'd be glad to hear from you.</sub>
