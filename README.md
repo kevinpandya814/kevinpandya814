@@ -18,7 +18,7 @@ I'm a Toronto-based data analyst with **2+ years** turning messy, inconsistent d
 Most reporting problems aren't tool problems — they're **definition problems**. The same metric means different things on different pages, and no one can explain why. I work at the source: getting the KPI logic right in SQL, modelling the data cleanly, and building dashboards that still make sense when someone asks *"where does this number actually come from?"*
 
 - 🎓 Master of Professional Studies in Analytics — Northeastern University, Toronto
-- 🍁 Eligible to work in Canada (PGWP through 2029 — no sponsorship required)
+- 🍁 Eligible to work in Canada
 - 💬 Always up for talking data, dashboards, and real-world reporting problems
 
 ---
